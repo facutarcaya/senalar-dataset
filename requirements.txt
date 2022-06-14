@@ -1,0 +1,7 @@
+tensorflow
+imutils
+tqdm
+pandas
+shutil
+opencv-python
+os
